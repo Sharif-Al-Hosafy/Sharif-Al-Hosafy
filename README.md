@@ -4,7 +4,7 @@
 ## Languages & Tools :computer:
 
 
-
+[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="95"/>
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="95" height="22"/>
