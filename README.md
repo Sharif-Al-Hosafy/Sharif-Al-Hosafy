@@ -1,23 +1,52 @@
-## Hi, I’m Sharif Al Hosafy 👋
-### After discovering my passion for computer science and the backend development, I couldn’t get enough.  I made websites for friends and family and I'm currently contributing in teaching teenagers the principles of computer science, I’m looking forward to bringing the passion and the science to them.
-
-## Languages & Tools :computer:
-
-
-[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="95"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="95" height="22"/>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Mongo" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="95" height="22"/>
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="95" height="22"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="95" height="22"/>
-  <img alt="alpine" src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" width="95" height="22"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+## Hi, I'm Sharif 👋                                                                                                                
+                                                                                                                                      
+  SRE at [Qoyod](https://qoyod.com). I make sure the app stays up —                                                                   
+  and when it doesn't, I'm the one staring at Grafana at 2am trying to figure out why.                                                
+                                                                                                                                      
+  I build observability stacks, automate release pipelines, and write postmortems
+  that hopefully we never have to read again. *(we always do)*                                                                        
+                                                            
+  Currently going through the [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)                        
+  — because apparently 3 years of production fires isn't enough learning.
+                                                                                                                                      
+  ---                                                       
+                                                                                                                                      
+  ### What I work with                                                                                                                
   
-</p>
-
+  **Observability** — because flying blind is only fun in movies                                                                      
+                                                            
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)                               
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+                                                                                                                                      
+  **Cloud & Infra** — where the real chaos lives                                                                                      
+                                                                                                                                      
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)                                 
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)                               
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
+                                                                                                                                      
+  **CI/CD** — so I can break things consistently            
+                                                                                                                                      
+  ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)       
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)                                 
+                                                                                                                                      
+  **Languages**                                                                                                                       
+               
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                               
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)                                 
+                                                                                                     
+  **Databases**                                                                                                                       
+               
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                   
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)               
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)                                  
+  ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+                                                                                                                                      
+  ---
+                                                                                                                                      
+  [![Dynamic DevOps                                         
+  Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) 
