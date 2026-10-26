@@ -6,9 +6,7 @@
   I build observability stacks, automate release pipelines, and write postmortems
   that hopefully we never have to read again. *(we always do)*                                                                        
                                                             
-  Currently going through the [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)                        
-  — because apparently 3 years of production fires isn't enough learning.
-                                                                                                                                      
+  Currently going through the [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)                                                                                                                                                              
   ---                                                       
                                                                                                                                       
   ### What I work with                                                                                                                
