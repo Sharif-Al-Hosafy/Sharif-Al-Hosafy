@@ -4,9 +4,11 @@
   and when it doesn't, I'm the one staring at Grafana at 2am trying to figure out why.                                                
                                                                                                                                       
   I build observability stacks, automate release pipelines, and write postmortems
-  that hopefully we never have to read again. *(we always do)*                                                                        
-                                                            
-  Currently going through the [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)                                                                                                                                                              
+  that hopefully we never have to read again. *(we always do)*        
+
+  
+  Currently going through the [Dynamic DevOps Roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)        
+  
   ---                                                       
                                                                                                                                       
   ### What I work with                                                                                                                
